@@ -24,7 +24,7 @@ The demo can be downloaded [here](https://yadi.sk/d/3zeQQ6nQL7K_qw).
 - No extra libraries
 
 ### Price
-$100
+$150
 
 ### Contacts
 mikeduglas@yandex.ru
